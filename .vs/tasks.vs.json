@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-antd.min",
+      "appliesTo": "web/assets/ant-design-vue@1.7.2/antd.min.css",
+      "type": "launch"
+    }
+  ]
+}
